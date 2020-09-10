@@ -1,0 +1,48 @@
+{
+  "rows": [{
+      "mid": 14,
+      "stop": 0,
+      "max_supply": "1000.0000000000 EMD",
+      "mined": "73.9356678883 EMD",
+      "reward_per_second": "0.0016534391 EMD",
+      "contract0": "eosio.token",
+      "sym0": "4,EOS",
+      "reserve0": "490000.0000 EOS",
+      "liquidity_token": "4900000000",
+      "reward_weight": "1.00000000000000000",
+      "last_update": "2020-09-09T02:06:36",
+      "starttime": "2020-09-08T12:00:00",
+      "endtime": "2020-09-15T12:00:00"
+    },{
+      "mid": 15,
+      "stop": 0,
+      "max_supply": "1000.0000000000 EMD",
+      "mined": "68.7320255519 EMD",
+      "reward_per_second": "0.0016534391 EMD",
+      "contract0": "tethertether",
+      "sym0": "4,USDT",
+      "reserve0": "787000.0100 USDT",
+      "liquidity_token": "7870000100",
+      "reward_weight": "1.00000000000000000",
+      "last_update": "2020-09-09T01:59:59",
+      "starttime": "2020-09-08T12:00:00",
+      "endtime": "2020-09-15T12:00:00"
+    },{
+      "mid": 16,
+      "stop": 0,
+      "max_supply": "500.0000000000 EMD",
+      "mined": "37.3057450594 EMD",
+      "reward_per_second": "0.0008267195 EMD",
+      "contract0": "minedfstoken",
+      "sym0": "4,DFS",
+      "reserve0": "56000.0006 DFS",
+      "liquidity_token": 560000006,
+      "reward_weight": "1.00000000000000000",
+      "last_update": "2020-09-09T01:33:13",
+      "starttime": "2020-09-08T12:00:00",
+      "endtime": "2020-09-15T12:00:00"
+    }
+  ],
+  "more": false,
+  "next_key": ""
+}
