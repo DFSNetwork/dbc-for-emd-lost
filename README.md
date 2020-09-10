@@ -61,12 +61,7 @@ cleos -u http://openapi.eos.ren get table emeraldmine1 16 liquidity  -l  1000 > 
 
 大白菜发行总量是: 1000 DBC
 
-* 代币合约权限直接黑洞一步到位 
-* 永不增发
 * 每一颗大白菜，都是弥足珍贵的限量版
-* 大白菜币天生自带完整的去中心化属性、稀缺属性
-
-合约已经完全去中心化  ：[查看](https://bloks.io/account/dfsfarmsdbc1#keys)
 
 ### 大白菜币的应用场景
 
